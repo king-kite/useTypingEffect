@@ -1,0 +1,19 @@
+{
+  "name": "use-typing-effect",
+  "version": "1.0.0",
+  "description": "A simple react hook that adds a typing effect to your text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Kolade",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
